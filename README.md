@@ -14,4 +14,7 @@ python manage.py makemigrations
 
 # Migrate the database
 python manage.py migrate
+
+# Run the server
+python manage.py runserver
 ```
